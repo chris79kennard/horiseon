@@ -45,8 +45,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
+/*changed form p to article to match html*/
+article {
     font-size: 16px;
 }
 
