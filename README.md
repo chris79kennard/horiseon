@@ -1,4 +1,4 @@
-# Christopher Kennard's 1st Homewrok Assignment
+# Christopher Kennard's 1st home work assignment
 
 ## Task: Review the HTML and CSS on the file and make it more accessable for those with disabilties, with out changing the fuctionality of the site.
 
